@@ -1,0 +1,24 @@
+{
+    "fotos": [
+      {
+        "imagem": "https://i.postimg.cc/t43qdRbC/Foto-1.jpg",
+        "legenda": "Puffs na biblioteca",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.postimg.cc/yN7VLq6h/Foto-2.jpg",
+        "legenda": "Mesas da biblioteca",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.postimg.cc/CKJwtvd3/Foto-3.jpg",
+        "legenda": "Tênis de mesa",
+        "data": "31/07/2025"
+      },
+      {
+        "imagem": "https://i.postimg.cc/rmmqLSrK/Foto-4.jpg",
+        "legenda": "Quadra de futebol",
+        "data": "31/07/2025"
+      }
+    ]
+  }
