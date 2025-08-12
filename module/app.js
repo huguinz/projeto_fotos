@@ -1,7 +1,7 @@
 'use strict'
 
 export const getPhotos = async () => {
-    const url = 'http://localhost:3000/fotos'
+    const url = 'https://back-projeto-fotos.onrender.com/fotos'
     const response = await fetch(url)
     const data = await response.json()
 
